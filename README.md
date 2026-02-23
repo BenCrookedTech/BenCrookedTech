@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bencrookedtech" alt="bencrookedtech" /></a> </p>
 
-- **Paranoid that AI will read my code and judge me silently**
+- **I crack minors**
 
--**Depressed dev with my joints and blunts**
+-**Tunnels allowed**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
