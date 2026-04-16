@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bencrookedtech" alt="bencrookedtech" /></a> </p>
 
-- **I crack minors**
+- **DevOps**
 
 -**Tunnels allowed**
+
+- **Automation at its peak, but pay or I leave a backdoor xd!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
