@@ -6,7 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bencrookedtech" alt="bencrookedtech" /></a> </p>
 
 - **DevOps**
-**Hire me fast I need the cash.**
+
+- **Hire me fast I need the cash.**
+  
 -**Tunnels allowed**
 
 - **Automation at its peak, but pay or I leave a backdoor xd!**
